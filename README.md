@@ -1,1 +1,1 @@
-In this project i practice to create a recommendation engine of netflix to choose movies with best genre to worst genre based on reveiws using python and its  popular liabraries  
+A machine learning project that builds a movie genre recommendation system using Netflix data. This repository includes preprocessing scripts, exploratory analysis, and models (collaborative filtering, content-based, hybrid approaches) to suggest genres tailored to user preferences.
